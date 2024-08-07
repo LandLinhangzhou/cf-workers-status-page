@@ -38,3 +38,40 @@ monitors:
     description: 'github 镜像站'
     method: GET
     expectStatus: 200
+
+  - id: fkopenai.openkind.us.kg
+    name: fkopenai.openkind.us.kg
+    url: 'https:/fkopenai.openkind.us.kg/'
+    method: GET
+    expectStatus: 200
+
+  - id: guide.openkind.us.kg
+    name: guide.openkind.us.kg
+    url: 'https:/guide.openkind.us.kg/'
+    method: GET
+    expectStatus: 200
+
+  - id: lobechat.openkind.us.kg
+    name: lobechat.openkind.us.kg
+    url: 'https:/lobechat.openkind.us.kg/'
+    method: GET
+    expectStatus: 200
+    
+  - id: memos.openkind.us.kg
+    name: memos.openkind.us.kg
+    url: 'https:/memos.openkind.us.kg/'
+    method: GET
+    expectStatus: 200
+
+  - id: memos.openkind.us.kg
+    name: memos.openkind.us.kg
+    url: 'https:/memos.openkind.us.kg/'
+    method: GET
+    expectStatus: 200    
+    
+  - id: rep.rep.us.kg
+    name: rep.rep.us.kg
+    url: 'https:/rep.rep.us.kg/'
+    method: GET
+    expectStatus: 200    
+    
