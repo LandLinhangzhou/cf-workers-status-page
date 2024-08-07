@@ -24,7 +24,7 @@ monitors:
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
 
-  - id: dockerhub-proxy.rep.us.kg
+  - id: docker-hub.rep.us.kg
     name: dockerhub-proxy.rep.us.kg
     description: 'docker 镜像站'
     url: 'https://dockerhub-proxy.rep.us.kg'
