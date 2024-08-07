@@ -25,9 +25,9 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: docker-hub.rep.us.kg
-    name: dockerhub-proxy.rep.us.kg
+    name: docker-hub.rep.us.kg
     description: 'docker 镜像站'
-    url: 'https://dockerhub-proxy.rep.us.kg'
+    url: 'https://docker-hub.rep.us.kg'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
