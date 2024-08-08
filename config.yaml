@@ -62,12 +62,6 @@ monitors:
     url: 'https:/memos.openkind.us.kg/'
     method: GET
     expectStatus: 200
-
-  - id: memos.openkind.us.kg
-    name: memos.openkind.us.kg
-    url: 'https:/memos.openkind.us.kg/'
-    method: GET
-    expectStatus: 200    
     
   - id: rep.rep.us.kg
     name: rep.rep.us.kg
